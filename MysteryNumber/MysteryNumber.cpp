@@ -1,4 +1,4 @@
-//MysteryNumber.cpp : a game where you must try to find a number.
+//MysteryNumber.cpp : a game where you must try to find a (random) number.
 
 #include <iostream>
 #include <time.h>
