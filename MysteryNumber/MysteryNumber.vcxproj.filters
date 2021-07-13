@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MysteryNumber.cpp">
+    <ClCompile Include="mystery_number.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
